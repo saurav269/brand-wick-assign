@@ -14,5 +14,12 @@
 <p>- Technologies used: React.js, Axios/Fetch</p>
 <br/>
 <h1>### Deployment</h1>
-<p>- Backend: Deployed on [Cyclic](https://pear-worried-bonobo.cyclic.app/)</p>
-<p>- Frontend: Deployed on [Vercel](frontend_url)</p>
+<p>- Backend: Deployed on [Cyclic] (https://pear-worried-bonobo.cyclic.app/)</p>
+<p>- Frontend: Deployed on [Vercel] (https://my-a809q3oxg-saurav269.vercel.app/)</p>
+<br/>
+<h1>### Instructions</h1>
+<p>1. Clone the repository.</p>
+<p>2. Set up the backend by navigating to the 'backend' directory and following the README instructions..</p>
+<p>3. Set up the frontend by navigating to the 'frontend' directory and following the README instructions.</p>
+<p>4. Run both the backend and frontend applications.</p>
+<p>5. Access the application via the provided frontend URL.</p>
