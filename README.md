@@ -22,4 +22,4 @@
 <p>2. Set up the backend by navigating to the 'backend' directory and following the README instructions..</p>
 <p>3. Set up the frontend by navigating to the 'frontend' directory and following the README instructions.</p>
 <p>4. Run both the backend and frontend applications.</p>
-<p>5. Access the application via the provided frontend URL.</p>
+<p>5. Access the application via the provided frontend URL. </p>
