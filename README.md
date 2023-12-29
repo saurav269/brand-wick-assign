@@ -23,3 +23,8 @@
 <p>3. Set up the frontend by navigating to the 'frontend' directory and following the README instructions.</p>
 <p>4. Run both the backend and frontend applications.</p>
 <p>5. Access the application via the provided frontend URL. </p>
+<br/>
+<a href="https://ibb.co/sg9n0qr"><img src="https://i.ibb.co/PrGK7g8/Screenshot-349.png" alt="Screenshot-349" border="0"></a>
+<br/>
+<br/>
+<a href="https://ibb.co/q9XLX8F"><img src="https://i.ibb.co/gwHbH8F/Screenshot-350.png" alt="Screenshot-350" border="0"></a>
